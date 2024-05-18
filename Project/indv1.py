@@ -11,4 +11,3 @@ if __name__ == "__main__":
     for sentence in sentences:
         if word in sentence:
             print(sentence)
-
